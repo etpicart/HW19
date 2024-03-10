@@ -1,0 +1,114 @@
+.hero h1 {
+    position: absolute;
+    width: 406px;
+    height: 37px;
+   padding-left: 200px;
+    top: 163px;
+    padding-top: 100px;
+
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 37px;
+    color: #000000;
+
+    
+    
+}
+.hero p {
+   
+   
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 32px;
+    
+    color: #000000;
+    padding-left: 200px;
+    padding-top: 150px;
+    padding-right: 300px;
+}
+
+.skills h1{
+    text-align: right;
+    padding: 60px;
+    padding-right: 10px;
+    font-size: 70px;
+    padding-top: 0px;
+}
+.button {
+    background-color: #6da676;
+        border: none;
+        color: #000000;
+        padding: 15px 34px;
+        text-align: center;
+        font-weight: bolder;
+        display: inline-block;
+        font-size: 17px;
+        margin: 5px;
+        
+        position: relative;
+        width: 280px;
+        border-radius: 12px;
+        font-family: 'Inika';
+        text-decoration: underline
+
+}
+.Logo img {
+    width: 80px;
+    height: 80px;
+
+}
+
+.Logo {
+    font-size: 50px;
+    font-family: 'Montserrat';
+    
+}
+.row1 img {
+    width: 300px;
+    height: 300px;
+
+}
+.row1 h1 {
+    text-align: right;
+    padding-right: 20px;
+    font-size: 30px;
+}
+.work2 img{
+    
+width: 188px;
+height: 388px;
+left: 459px;
+top: 1304px;
+border-radius: 20px;
+padding-left: 50px;
+}
+.work3 img {
+    
+border-radius: 20px;
+width: 527px;
+height: 388px;
+padding-left: 100px;
+
+
+}
+.row {
+    display: flex;
+}
+.work1 {
+    font-family: 'Montserrat';
+    text-align: center;
+}
+.work1 p {
+    font-family: 'Montserrat';
+    margin: 50px;
+}
+.work1 h2 {
+    font-family: 'Montserrat';
+    padding-top: 90px;
+}
